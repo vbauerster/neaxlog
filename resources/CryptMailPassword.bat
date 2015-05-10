@@ -1,1 +1,1 @@
-java bauer.neax.mail.CryptoUtils C:\Windows\.dbfpbx.key
+java bauer.neax.mail.CryptoUtils pbx.key
